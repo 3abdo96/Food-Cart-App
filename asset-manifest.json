@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Food-Cart-App/static/css/main.628b4563.chunk.css",
+    "main.js": "/Food-Cart-App/static/js/main.bd2137ad.chunk.js",
+    "main.js.map": "/Food-Cart-App/static/js/main.bd2137ad.chunk.js.map",
+    "runtime-main.js": "/Food-Cart-App/static/js/runtime-main.5d679688.js",
+    "runtime-main.js.map": "/Food-Cart-App/static/js/runtime-main.5d679688.js.map",
+    "static/js/2.53959bbd.chunk.js": "/Food-Cart-App/static/js/2.53959bbd.chunk.js",
+    "static/js/2.53959bbd.chunk.js.map": "/Food-Cart-App/static/js/2.53959bbd.chunk.js.map",
+    "index.html": "/Food-Cart-App/index.html",
+    "static/css/main.628b4563.chunk.css.map": "/Food-Cart-App/static/css/main.628b4563.chunk.css.map",
+    "static/js/2.53959bbd.chunk.js.LICENSE.txt": "/Food-Cart-App/static/js/2.53959bbd.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/Food-Cart-App/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d679688.js",
+    "static/js/2.53959bbd.chunk.js",
+    "static/css/main.628b4563.chunk.css",
+    "static/js/main.bd2137ad.chunk.js"
+  ]
+}
